@@ -85,13 +85,17 @@ All relationships are logically consistent and time-aware.
 ---
 
 ## Sample Data Preview
-|![assets](img/sample_orders.png)
 
-![assets](img/sample_inventory.png)
+## Sample Data Preview
 
-![assets](img/sample_shipment.png)
+![Sample Orders Data](assets/sample_orders.png)
 
-![assets](img/sample_weather.png)
+![Sample Inventory Data](assets/sample_inventory.png)
+
+![Sample Shipments Data](assets/sample_shipments.png)
+
+![Sample Weather Data](assets/sample_weather.png)
+
 
 ---
 
