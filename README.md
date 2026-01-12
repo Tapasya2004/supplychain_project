@@ -84,7 +84,6 @@ All relationships are logically consistent and time-aware.
 
 ---
 
-## Sample Data Preview
 
 ## Sample Data Preview
 
