@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Supply Chain Dataset (Synthetic, Realistic)
 
 This repository contains a synthetic but realistic supply chain dataset designed
@@ -126,3 +127,6 @@ International (CC BY-ND 4.0). Modified versions may not be redistributed.
 
 Tapasya Mendole 
 Aspiring Data Analyst / Business Analyst
+=======
+# supplychain-analytics
+>>>>>>> c5daaa6bebfcc6b933ad65d6314d6625578b925f
